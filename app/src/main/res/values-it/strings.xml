@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS-212102439</string>
+    <string name="jeniskelamin">Il Genere</string>
+    <string-array name="arrayjeniskelamin">
+        <item>Maschia</item>
+        <item>Femmina</item>
+    </string-array>
+    <string name="info">Informazione</string>
+</resources>
